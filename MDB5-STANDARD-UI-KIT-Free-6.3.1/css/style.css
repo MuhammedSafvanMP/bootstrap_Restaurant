@@ -1,0 +1,139 @@
+
+h2{
+  font-family: 'Dancing Script', cursive;
+}
+h3 p {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+}
+#name{
+  color: rgb(35, 203, 241);
+  font-family: 'Dancing Script', cursive;
+}
+#myCarousel img{
+  width: 100%;
+  height: 100vh;
+}
+.card-body img{
+  min-width: 50%;
+  max-height: 200px;
+}
+#link i{
+  padding: 10px;
+}
+#navimg{
+  width: 50px;
+}
+
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+  }
+  
+  @media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+      font-size: 3.5rem;
+    }
+  }
+  
+
+
+.services,.offer,.special,.w3-agile-footer,.w3l-about-top,.different,.team,.codes,.typography,.gallery,.contact{
+	padding:4em 0;
+}
+.services-heading h2,.w3l-offer-heading h3,.wthree-special-heading h3,.w3-about-heading h2,.w3-different-heading h3,.agileits-team-heading h3,.contact-form h3,.w3ls-contact-grids h3{
+	color: #201e1e;
+    margin: 0;
+    font-size: 2.5em;
+    text-transform: capitalize;
+    font-family: 'Pacifico', cursive;
+    text-align: center;
+}
+.w3-agileits-services-grids{
+	margin:4em 0 0 0;
+}
+.w3-agileits-services-left{
+    background: url(../images/2.jpg) no-repeat 0px 0px;
+    background-size: cover;
+    min-height: 570px;
+}
+.services-right-grid {
+    text-align: center;
+}
+i.fa.fa-anchor, i.fa.fa-comment, i.fa.fa-heartbeat,i.fa.fa-magnet,i.fa.fa-thumbs-up {
+    color: #F44336;
+    font-size: 2em;
+}
+.services-icon{
+    width: 70px;
+    height: 70px;
+    text-align: center;
+    border: solid 2px #f1f1f1;
+    padding: 1.2em 0 0 0;
+    margin: 0 auto;
+}
+.w3l-clients .main-w3 {
+    padding: 100px 0;
+    background: url(../img/4.jpg) no-repeat center;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    -ms-background-size: cover;
+    z-index: 0;
+    position: relative; }
+
+    .w3l-clients .main-w3:before {
+        width: 100%;
+        content: "";
+        background: rgba(0, 0, 0, 0.4);
+        position: absolute;
+        top: 0px;
+        left: 0px;
+        right: 0px;
+        bottom: 0px;
+        opacity: .6;
+        z-index: -1; }
+      
+      .w3l-clients .form-right-inf {
+        max-width: 800px;
+        margin: 0px auto; }
+      
+      .w3l-clients .form-right-inf input[type="text"], .w3l-clients .form-right-inf input[type="date"], .w3l-clients .form-right-inf input[type="email"], .w3l-clients .form-right-inf input[type="number"], .w3l-clients .form-right-inf select, .w3l-clients .form-right-inf textarea {
+        background: #fff;
+        outline: none;
+        width: 100%;
+        font-size: 16px;
+        padding: 14px 25px;
+        color: var(--text-color);
+        border-radius: 3px;
+        border: 1px solid rgba(10, 49, 68, 0.2); }
+      
+      .w3l-clients button.btn {
+        background: #EA3546;
+        color: #fff;
+        text-decoration: none;
+        padding: 14px 30px;
+        text-align: center;
+        font-size: 16px;
+        display: inline-block;
+        width: 100%;
+        font-weight: 700;
+        cursor: pointer;
+        border: 1px solid #EA3546;
+        border-radius: 3px;
+        transition: .3s; }
+      
+      .w3l-clients button.btn:hover {
+        background: #F9C80E;
+        border: 1px solid #F9C80E;
+        transition: .3s; }
+      
+      .w3l-clients .form-16-mian h4 {
+        color: #fff; }
+      
+      .w3l-clients .book-form select {
+        background: #fff url(../images/down.png) no-repeat 96% 52%; }   
